@@ -178,4 +178,4 @@ Below are a few keys to remember when thinking about REST:
 
 - [Representational state transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-rest'>REST</a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/intro-to-rest'>REST</a> on Learn.co and start learning to code for free.</p> 
